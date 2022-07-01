@@ -1,6 +1,6 @@
 - 👋 Prazer @GustavoEric
 - 👀 Estou interessado em entrar na área de programação
-- 🌱 Estou fazendo ensino técnico de Análise e Desenvolvimento de Sistemas na Etec Dr.Emílio Hernandez Aguilar
+- 🌱 Estou fazendo Ensino técnico de Análise e Desenvolvimento de Sistemas na Etec Dr.Emílio Hernandez Aguilar
 - 💞️ Quero ganhar experiência e ser um profissional reconhecido
 - 📫 Contato gustavoericalvesmelo@gmail.com
 
