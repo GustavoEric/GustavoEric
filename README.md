@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEric&show_icons=true&theme=tokyonight)
 
 ### Contato:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavoericalvesmelo@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) gustavoericalvesmelo@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-eric-alves-melo-4a6434227)
 
@@ -20,3 +20,5 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEric&layout=compact&theme=tokyonight)](https://github.com/GustavoEric/github-readme-stats)
