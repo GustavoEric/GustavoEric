@@ -3,8 +3,6 @@
 #### Sou programador atualmente cursando Análise e Desenvolvimento de Sistemas  na Uninove.
 ✅️Ensino técnico em Desenvolvimento de Sistemas concluído na Etec Dr.Emílio Hernandez Aguilar.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEric&show_icons=true&theme=tokyonight)
-
 ## Contatos:
 
 <div>
@@ -24,4 +22,4 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEric&layout=compact&theme=tokyonight)](https://github.com/GustavoEric/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEric&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEric&layout=compact&theme=tokyonight)](https://github.com/GustavoEric/github-readme-stats)
