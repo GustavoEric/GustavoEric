@@ -1,6 +1,7 @@
 ### Olá Sou o Gustavo, Bem Vindo ao meu perfil
 
-#### Sou programador atualmente estudando na ETEC fazendo Desenvolvimento de Sistemas no 3º Módulo
+#### Sou programador atualmente cursando Análise e Desenvolvimento de Sistemas  na Uninove.
+Ensino técnico concluído na Etec Dr.Emílio Hernandez Aguilar.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEric&show_icons=true&theme=tokyonight)
 
