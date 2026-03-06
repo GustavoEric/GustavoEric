@@ -1,6 +1,6 @@
 # Olá, sou o Gustavo! 👋
 
-### Programador | Estudante de Análise e Desenvolvimento de Sistemas
+### Programador Full Stack JR
 
 Formado em **Análise e Desenvolvimento de Sistemas** na **Uninove**, e já concluí o curso técnico em **Desenvolvimento de Sistemas** pela **Etec Dr. Emílio Hernandez Aguilar**. Tenho paixão por tecnologia e gosto de trabalhar com diferentes linguagens de programação e ferramentas para desenvolver soluções criativas e eficientes.
 
